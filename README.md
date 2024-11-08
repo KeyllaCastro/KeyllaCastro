@@ -2,7 +2,7 @@
  Sobre mim
 - 🎓 Estudante em em desenvolvimento de sistemas na ETEC. E formada em Banco se Dados na Fiap.
 - 🌱 Atualmente, estou aprendendo HTML, JavaScript, Css, Python, Lógica de programação, revendo conceitos de Banco de Dados.
-- 💭 Tenho o sonho de estudar **Psicologia** no futuro e desenvolver minhas habilidades em programação.
+- 💭 Tenho o sonho de estudar Psicologia no futuro e desenvolver minhas habilidades em programação.
 - ⚡ Curiosidade: Além da programação, amo viajar com minha família e estar com meus amigos, e estar com meu cachorrinho Jimmy, e claro uma curiosidade a mais é que quando mais nova eu tocava violino.
  
  💻 Habilidades
