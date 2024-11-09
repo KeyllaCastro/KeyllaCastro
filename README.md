@@ -1,6 +1,7 @@
 👋 Olá! Eu sou a Keylla Castro
 
 Sobre mim
+
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC e formada em Banco de Dados na FIAP.
 🌱 Atualmente, estou aprendendo HTML, JavaScript, CSS, Python, Lógica de Programação e revendo conceitos de Banco de Dados.
 💭 Tenho o sonho de estudar Psicologia no futuro e desenvolver minhas habilidades em programação.
